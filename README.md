@@ -10,4 +10,5 @@ Find the core and instructions to use the board with the Arduino environment her
 ~Feel free to post links to your projects, pictures and any questions that don't belong in the core's repo.~
 
 _idea by #SuperUserNameMan_
+
 _suggestion to move to discussions in main repo by #seisfeld_
